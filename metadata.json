@@ -1,0 +1,6 @@
+{
+  "name": "LearnGap v2 - Evidence-Driven Learning Gap & Root-Cause Diagnostic Engine",
+  "description": "Evidence-driven learning gap engine that pinpoints root-cause prerequisite weaknesses, diagnoses misconceptions, simulates mastery gains, and schedules exam-readiness interventions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
